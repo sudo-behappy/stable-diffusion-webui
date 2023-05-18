@@ -1,0 +1,8 @@
+基础提升质量tag:
+((masterpiece)), (best quality), (highres), original, extremely detailed unity 8k wallpaper, 4k
+
+随机：__scene__,__style__,__bottoms__,__expression__,__hair__,__hands__,__items__,__lens__,__pantyhose__,__postsure__,__scene__,__body__,__weather__,
+
+负面tag:
+nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, missing fingers,bad hands,missing arms, long neck, Humpbacked, bad face, 
+
